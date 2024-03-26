@@ -1,4 +1,4 @@
-![Random Image](https://picsum.photos/300)
+![Random Image](https://picsum.photos/200)
 # My-Portfolio  
 ##### Note above image is randomly generated.
 | Name | Languages used | Link|
